@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  pythonapp:
+    build: ./python/
+    ports:
+      - 80:5000
+    volumes:
+      - ./python:/usr/app/src
+    depends_on:
+      - mysql
+
+  mysql:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'db'
+      MYSQL_ROOT_PASSWORD: 'root'
+    volumes:
+      - "./db:/docker-entrypoint-initdb.d"
+    ports:
+      - '3306:3306'
