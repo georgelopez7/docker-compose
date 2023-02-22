@@ -34,6 +34,9 @@ Below you can see an image of the folder hierachy required to produce this conta
 
 ![Screenshot 2023-02-22 123123](https://user-images.githubusercontent.com/71076769/220620673-c797ab89-5418-4a58-a29e-caf2a5828967.png)
 
+[Back To The Top](#docker-compose-flask-app--mysql-database)
+
+--
 
 ## docker-compose file
 
@@ -41,7 +44,7 @@ Below is an explanation of the docker-compose.yml file that was used to compose 
 
 ![Screenshot 2023-02-22 123213](https://user-images.githubusercontent.com/71076769/220620646-b623cfdd-857e-43ff-ae0d-c9bb4df44160.png)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#docker-compose-flask-app--mysql-database)
 
 ---
 
@@ -50,4 +53,4 @@ Below is an explanation of the docker-compose.yml file that was used to compose 
 
 LinkedIn - [George Lopez](https://www.linkedin.com/in/george-benjamin-lopez/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#docker-compose-flask-app--mysql-database)
