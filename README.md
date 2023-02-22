@@ -32,7 +32,7 @@ This Flask application is a simple to-do list that allows users to input and rem
 
 ---
 
-## Folder Hierachy
+## Folder Hierarchy
 
 Below you can see an image of the folder hierachy required to produce this containerized infrastructure for this project:
 
