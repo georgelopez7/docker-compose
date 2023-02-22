@@ -36,7 +36,7 @@ Below you can see an image of the folder hierachy required to produce this conta
 
 [Back To The Top](#docker-compose-flask-app--mysql-database)
 
---
+---
 
 ## docker-compose file
 
