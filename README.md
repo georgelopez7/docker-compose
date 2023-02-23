@@ -9,7 +9,7 @@
 
 - [Description](#description)
 - [Flask Application](#flask-application)
-- [Folder Hierachy](#folder-hierachy)
+- [Folder Hierarchy](#folder-hierarchy)
 - [docker-compose file](#docker-compose-file)
 - [Deployment](#deployment)
 - [Author Info](#author-info)
