@@ -28,6 +28,9 @@ In this repository, you will find a step-by-step guide on how to create a Flask 
 
 This Flask application is a simple to-do list that allows users to input and remove tasks, with each task being stored and saved in a MySQL database. The code for the flask application can be found **python/flask_app.py**
 
+Below is a video of the application in use:
+
+https://user-images.githubusercontent.com/71076769/220915450-bb4332f5-ac76-4b5b-8037-46af7a72e10d.mp4
 
 
 [Back To The Top](#docker-compose-flask-app--mysql-database)
