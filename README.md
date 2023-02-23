@@ -11,7 +11,6 @@
 - [Flask Application](#flask-application)
 - [Folder Hierarchy](#folder-hierarchy)
 - [docker-compose file](#docker-compose-file)
-- [Deployment](#deployment)
 - [Author Info](#author-info)
 
 ---
