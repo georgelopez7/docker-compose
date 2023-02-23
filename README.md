@@ -1,6 +1,6 @@
 # Docker Compose: Flask App & mySQL Database
 
-![Project Image](project-image-url)
+![Blank diagram (2)](https://user-images.githubusercontent.com/71076769/220912650-abd99f7b-6e84-46bd-91e4-5fbd2c979bbb.svg)
 
 
 ---
@@ -26,7 +26,9 @@ In this repository, you will find a step-by-step guide on how to create a Flask 
 
 ## Flask Application
 
-This Flask application is a simple to-do list that allows users to input and remove tasks, with each task being stored and saved in a MySQL database. The code for the flask application can be found **"add specific location here"**
+This Flask application is a simple to-do list that allows users to input and remove tasks, with each task being stored and saved in a MySQL database. The code for the flask application can be found **python/flask_app.py**
+
+
 
 [Back To The Top](#docker-compose-flask-app--mysql-database)
 
