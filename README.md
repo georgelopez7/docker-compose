@@ -30,7 +30,9 @@ This Flask application is a simple to-do list that allows users to input and rem
 
 Below is a video of the application in use:
 
-https://user-images.githubusercontent.com/71076769/220915450-bb4332f5-ac76-4b5b-8037-46af7a72e10d.mp4
+
+https://user-images.githubusercontent.com/71076769/220915783-4800be0c-a901-4b3b-b99d-9592a8dc7791.mp4
+
 
 
 [Back To The Top](#docker-compose-flask-app--mysql-database)
